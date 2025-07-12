@@ -6,6 +6,7 @@ public class GitPractise2 {
 		// TODO Auto-generated method stub
 		//I am doing changes to pull the code
 		// I am pushing the code for the second time
+		// I am making changes to pull the code for the second time
 		System.out.println("Trying for the nth time");
 
 	}
