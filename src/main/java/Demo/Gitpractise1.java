@@ -1,6 +1,6 @@
 package Demo;
 
-public class Gitpractise {
+public class Gitpractise1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
